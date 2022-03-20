@@ -7,7 +7,7 @@ Video Link:
 https://www.youtube.com/watch?v=xlnSyfCRvs4
 <br><br><br>
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/xlnSyfCRvs4 "Everything Is AWESOME")
+[![Everything Is AWESOME]((https://youtu.be/xlnSyfCRvs4 "Everything Is AWESOME")
 
 
 
