@@ -30,4 +30,11 @@ for .sql file
 
 <br><br><br><br>
 ************
+<br><br>
+You can start registration and get username and password
+
+<br>
+<br><br>
+Thank You <br>
+Developer : JehanKandy<br>
 
