@@ -34,6 +34,8 @@ for .sql file
 You can start registration and get username and password
 
 <br>
+**********************************
+***********************************
 <br><br>
 Thank You <br>
 Developer : JehanKandy<br>
