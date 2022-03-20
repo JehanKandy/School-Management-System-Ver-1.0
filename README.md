@@ -8,4 +8,6 @@ please read this first
 1. Downlaod image folder and admin panel folder using folloeing link <br>
     otherwise admin panel doesn't working
     
+    download Link : <br>
+    https://www.mediafire.com/folder/8kpqqz7qp7tyb/sms+v1.0+image+and+admin+panel+folders
     
