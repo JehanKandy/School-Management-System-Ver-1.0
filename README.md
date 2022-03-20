@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=xlnSyfCRvs4
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/xlnSyfCRvs4/0.jpg)](http://www.youtube.com/watch?v=xlnSyfCRvs4 "Video Title")
 
-https://www.mediafire.com/view/iy2fn9lha2ahk4e/sch2.jpg
+
 
 Test using following link<br>
 
