@@ -7,7 +7,7 @@ Video Link:
 https://www.youtube.com/watch?v=xlnSyfCRvs4
 <br><br><br>
 
-[![Everything Is AWESOME](https://www.mediafire.com/view/iy2fn9lha2ahk4e/sch2.jpg)](https://youtu.be/xlnSyfCRvs4 "Everything Is AWESOME")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/xlnSyfCRvs4/0.jpg)](http://www.youtube.com/watch?v=xlnSyfCRvs4 "Video Title")
 
 https://www.mediafire.com/view/iy2fn9lha2ahk4e/sch2.jpg
 
