@@ -3,6 +3,16 @@ School Management System Ver 1.0 with login and registration and admin panel
 
 <br>
 
+Test using following link<br>
+
+http://learnjk.great-site.net/
+<br>
+
+I host this site using infinityfree<br>
+
+********************************************
+<br>
+
 please read this first <br><br>
 *******important*******
 1. Downlaod image folder and admin panel folder using folloeing link <br>
