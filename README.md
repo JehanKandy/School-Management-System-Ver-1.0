@@ -7,9 +7,9 @@ Video Link:
 https://www.youtube.com/watch?v=xlnSyfCRvs4
 <br><br><br>
 
-[![Everything Is AWESOME]((https://youtu.be/xlnSyfCRvs4 "Everything Is AWESOME")
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/xlnSyfCRvs4 "Everything Is AWESOME")
 
-
+https://www.mediafire.com/view/iy2fn9lha2ahk4e/sch2.jpg/file
 
 Test using following link<br>
 
